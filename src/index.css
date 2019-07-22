@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.myul{
+  display: flex;
+  justify-content: center;
+  background-color: blueviolet;
+  color: blanchedalmond;
+ list-style: none;
+ }
+
+ .myul li{
+   padding: 10px;
+   font-size: 30px;
+ }
+ .myh1 {
+   color: brown;
+
+ }
